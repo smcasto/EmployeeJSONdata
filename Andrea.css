@@ -1,0 +1,23 @@
+.ename{
+    font-size: 150%;
+    float: left;
+    font-weight: 800;
+    
+}
+.general img{
+    float: left;
+    clear: left;
+    width: 150px;
+}
+
+.title{
+    float right;
+    font-size: 150%;
+    clear: 
+}
+.email{
+    float right;
+    position: absolute;
+    top: 45px;
+    left: 185;
+}
